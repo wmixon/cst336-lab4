@@ -1,0 +1,41 @@
+    body{
+        opacity:0.9;
+        width:100%;
+        text-align:center;
+        color:grey;
+        font-size:1.5em;
+    }
+    
+    input {
+        font-size: 2em;
+        color: black;
+        border-radius:20px;
+        text-align: center;
+    }
+    
+    #layoutDiv {
+        display:inline-block; 
+        color:black; 
+        text-align:left; 
+        background-color:white; 
+        padding:10px; 
+        border-radius:10px;
+    }
+    
+    #carousel-example-generic {
+         margin: 0 auto;
+         text-align: center;
+         width: 500px;
+         box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    }
+    #carousel-inner {
+        position: absolute;
+        left:27%;
+        bottom: 27%;
+    }
+    
+    #f1{
+        position: absolute;
+        left: 27%;
+        bottom: 5%;
+    }
